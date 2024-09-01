@@ -1,0 +1,150 @@
+{% extends "nav.html" %}
+{% load static %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/ad.css' %}">
+    <script>
+        function goTopage() {
+        var selectBox = document.getElementById("checkbox");
+        var selectBox = document.getElementById("s1");
+        var selectBox = document.getElementById("checkbox2");
+        var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+        if (selectedValue !== '') {
+            window.location = selectedValue; // Redirect to the selected URL
+        }
+        }
+    </script>
+</head>
+<body>
+    <div class="nav">
+<navbar>
+    <div class="f1">
+        <div class="gt">
+        Family Trip<select type="checkbox" id="checkbox" onchange="goTopage()">
+            <option value="">Select Place</option>
+            <option value="{% url 'ladakh' %}">Leh Ladakh</option>
+            <option value="{% url 'hp' %}">Himachal Pradesh</option>
+            <option value="{% url 'udaipur' %}">Udaipur</option>
+        </select>
+        </div>
+        <div class="gf">
+        Group Holidays <select type="checkbox" id="checkbox" onchange="goTopage()">
+            <option value="">Select Place</option>
+            <option value="{% url 'ladakh' %}">Leh Ladakh</option>
+            <option value="{% url 'hp' %}">Himachal Pradesh</option>
+            <option value="{% url 'udaipur' %}">Udaipur</option>
+        </select>
+        </div>
+     
+        <div class="if">
+            Indian Holidays <select type="checkbox" id="checkbox" onchange="goTopage()">
+                <option value="">Select Place</option>
+                <option value="blank">Mahabaleshwar</option>
+                <option value="{% url 'hp' %}">Himachal Pradesh</option>
+                <option value="blank">Mysore</option>
+                <option value="blank">Darjeeling</option>
+            </select>
+        </div>
+    </div>
+    </navbar>
+    <div class="main1">
+        <div class="mid1">
+            <div class="mini1">
+               <h2 class="h">MANALI</h2>
+               <br>
+               <br>
+              
+               <br>
+               <br>
+               <img class="i" src="https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/11/Top-4-Indian-skiing-destinations-Solang.webp">
+              
+            </div>
+            <div class="mini2">
+                <div class="ac"><h3>Accommodation on double sharing<br>
+                    Breakfast and dinner at hotel<br>
+                    Transfer and sightseeing by pvt<br> 
+                    vehicle as per program<br>
+                    Applicable hotel taxes</h3>
+                </div>
+                </div>
+
+        </div>
+        
+
+        <div class="mid2">
+            <div class="mini3">
+                <h3>Starting Price Per Adult</h3>
+                <br>
+                <br>
+                <h2>30500/-INR</h2>
+                <br>
+                <br>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScjjtjuY6qrm21hrnJJswx_v_YeFdcxotqYarOOzONBCidvCg/viewform?usp=sf_link"><button class="butt" >Fill google form get call</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="it">
+        <h3> <br>
+            <br> itinerary <br> <br>
+            Day 1: ARRIVAL PORT BLAIR TO CORBYN’S COVE VIA LIGHT & SOUND SHOW(MONDAY CLOSED) <br>
+Day 2: PORTBLAIR TO HAVELOCK ISLAND - VISIT RADHANAGAR BEACH <br>
+Day 3: HAVELOCK ISLAND TO PORT BLAIR (CHECK OUT TIME 0800 HRS) <br>
+Day 4: PORT BLAIR TO ROSS ISLAND - NORTH BAY - VIPER ISLAND (CLOSED ON WEDNESDAYS) VIA PORT BLAIR<br>
+Day 5: PORT BLAIR CITY TOUR TO CHIDIYA TAPU<br>
+Day 6: PORT BLAIR - DEPARTURE (CHECK OUT TIME 0800 HRS)<br>
+        </h3>
+    </div>
+<footer>
+    <div class="foot">
+        <div class="wt">
+             <div class="k1">
+                Need Help?<br><br><br><br><br>
+                India<br><br>
+                USA<br>
+                Akshar Travels Pvt. Ltd<br>
+                9, City Centre, 2nd Floor,<br>
+                Swastik Cross Road,<br>
+                C. G. Road, Ahmedabad 380009. Gujarat (India)<br>
+             </div>
+             <div class="f2">   
+                Company<br><br>
+                About us<br>
+                Video Gallery<br>
+                Blog<br>
+                PNR Status<br>
+                Career<br>
+                Get Quote<br>
+                Online Payment<br>
+                Terms and Conditions<br>
+                Privacy Policy<br>
+                Contact Us<br>
+             </div>
+             <div class="f3">
+                Other Services<br><br>
+                Car Rental Services<br>
+                Air Ticket<br>
+                Train Tickets<br>
+                Hotel Booking<br>
+                Visa Services<br>
+                Events
+             </div> 
+             <div class="f4">  
+                Group Of Companies<br><br>
+                Amdavad City Sights<br>
+                Heritage Walk Ahmedabad<br>
+                Narmada Tent City<br>
+                Rann Utsav<br>
+                Tourism Awards Gujarat<br>
+                Vibrant Fashion Week</h3>
+             </div>   
+        </div>
+    </div>
+</footer>    
+</body>
+</html>
+{% endblock %}

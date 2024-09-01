@@ -1,0 +1,257 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.log-in-Yvs {
+  box-sizing: border-box;
+  padding-left: 17.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+#login{
+  background-color: #ed9f38;
+  height: 30px;
+  width: 30px;
+  margin-bottom: 30%;
+  border: #ed9f38;
+  font-size: 20px;
+  border-radius: 10px;
+  font-family: Inria Serif, 'Source Sans Pro';  
+}
+
+.log-in-Yvs .auto-group-4q1f-G6B {
+  margin: 0rem 23.3rem 3.9rem 0rem;
+  width: 46rem;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-ibdx-AhM {
+  box-sizing: border-box;
+  padding-bottom: 3.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-ibdx-AhM .log-in-VUj {
+  margin-bottom: 8.05rem;
+  display: flex;
+  margin-right: 10px;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+
+}
+
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-gikw-Wud {
+  margin-bottom: 3.25rem;
+  width: 100%;
+  display: flex;
+  font-size: 15px;  
+  font-weight: 400;
+  color: #727272;
+  font-family: Inria Serif, 'Source Sans Pro';
+  padding: 1.25rem 4.1rem;
+
+}
+.username1{
+width:500px;
+height: 50px;
+border-style: double;
+}
+
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-ktyr-6cw {
+  margin-bottom: 3.25rem;
+  width: 100%;
+  display: flex;
+  font-size: 15px;  
+  font-weight: 400;
+  color: #727272;
+  font-family: Inria Serif, 'Source Sans Pro';
+  padding: 1.25rem 4.1rem;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP {
+  box-sizing: border-box;
+  padding: 6.2rem 9.8rem 0rem 9.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .Button_log {
+  margin: 0rem 4rem 6.15rem 2.9rem;
+  width: calc(100% - 6.9rem);
+  height: 5.3rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #ed9f38;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+  
+  
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .or-login-with--Z99 {
+  margin-bottom: 3.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .frame-2-tBR {
+  width: 100%;
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .frame-2-tBR .facebook-DzP {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .frame-2-tBR .google-Ymm {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-4q1f-G6B .auto-group-fium-BeP .frame-2-tBR .twitter-6YP {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-iemk-d2X {
+  box-sizing: border-box;
+  padding: 7.8rem 10.7rem 5.5rem 8.1rem;
+  width: 57.2rem;
+  height: 102.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('https://timesofindia.indiatimes.com/photo/104277618/104277618.jpg');
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-iemk-d2X .frame-5-wJ7 {
+  margin-bottom: 72.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-iemk-d2X .frame-5-wJ7 .new-here-sign-up-Hsm {
+  margin-bottom: 1.8rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.log-in-Yvs .auto-group-iemk-d2X .frame-5-wJ7 .new-here-sign-up-Hsm .new-here-sign-up-Hsm-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #ed9f38;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.log-in-Yvs .auto-group-iemk-d2X .frame-5-wJ7 .new-here-sign-up-Hsm .new-here-sign-up-Hsm-sub-2 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  font-family: Inria Serif, 'Source Sans Pro';
+  margin-left: 10px;
+  color: #000000;
+  
+  
+}
+.log-in-Yvs .auto-group-iemk-d2X .frame-5-wJ7 .sign-up-to-plan-your-great-journey-with-us-RFD {
+  max-width: 38.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.log-in-Yvs .auto-group-iemk-d2X .himachal-pradesh-XZ9 {
+  margin-left: 2.6rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+.UN{
+  margin-right: 250px;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.PD{
+  
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 4%;
+  margin-left: 8%;
+
+}

@@ -1,0 +1,60 @@
+.nt{
+    background-color: #3a5f8d;
+    height: 100px;
+    width: 1445px;
+    align-items: center;
+    color: white;
+}
+.h1{
+    margin-left: 600px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.h2{
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.h3{
+    font-size: 20px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+.h4{
+    font-size: 20px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.nb{
+    font-size: 30px;
+}
+.nt{
+    display: flex;
+}
+.about{
+    font-size:30px;
+    margin-left: 300%;
+    display: inline;
+
+}
+
+.service{
+    font-size: 30px;
+    margin-bottom: 20%;
+    display: flex;
+}
+
+.cu{
+    font-size: 30px;
+    display: flex;
+}
+
+.ho{
+    font-size: 30px;
+    display: flex;
+}

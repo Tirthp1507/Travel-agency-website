@@ -1,0 +1,987 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-oCT {
+  width: 100%;
+  height: 308rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-oCT .auto-group-p6cd-be7 {
+  width: 91.8rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-oCT .auto-group-p6cd-be7 .logo {
+  margin-right: 19rem;
+  width: 29.3rem;
+  height: 10.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-p6cd-be7 .gallery-671 {
+  margin-right: 8.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-p6cd-be7 .about-us-8pP {
+  margin-right: 8.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-style: none;
+  text-decoration: none;
+}
+.desktop-1-oCT .auto-group-p6cd-be7 .contact-Fe7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-hgbf-B1y {
+  width: 144rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 0;
+  top: 82.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #3a5f8d;
+}
+
+.desktop-1-oCT .auto-group-wvs9-MKm {
+  width: 188.8rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 0;
+  top: 13rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .auto-group-a7fj-TNo {
+  margin-right: 32.9rem;
+  box-sizing: border-box;
+  padding: 1.8rem 17.4rem 1.8rem 18.1rem;
+  height: 100%;
+  display: flex;
+  column-gap: 11.5rem;
+  align-items: center;
+  background-color: #3a5f8d;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .auto-group-a7fj-TNo .frame-10-wYs {
+  width: 18.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .auto-group-a7fj-TNo .frame-11-abq {
+  width: 18.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .auto-group-a7fj-TNo .frame-12-e5u {
+  width: 18.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .auto-group-a7fj-TNo .frame-13-Jw9 {
+  width: 18.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-wvs9-MKm .group-trip-yGb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR {
+  width: 144rem;
+  height: 58.1rem;
+  position: absolute;
+  left: 0;
+  top: 21.9rem;
+  background-size: 100% 139.415%;
+  background-position: 0 -22.766rem;
+  background-image: url('https://www.akshartours.com/wp-content/uploads/2020/01/shutterstock_1103908961.jpg') ;
+  
+  background-repeat: no-repeat;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .rectangle-5-DAw {
+  width: 89.4rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 23.4rem;
+  background-color: rgba(217, 217, 217, 0.5);
+  border-radius: 2.5rem;
+  overflow: none;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .choose-the-best-tour--jQB {
+  width: 23.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 26.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .rectangle-2-C2s {
+  width: 17.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.6rem;
+  top: 29.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ed9f38;
+  border-radius: 1.8rem;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-7-3ZH {
+  box-sizing: border-box;
+  padding: 0.5rem 21.5rem 0.5rem 1.5rem;
+  width: 30.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 60rem;
+  top: 31.7rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #00a3ff;
+  border-radius: 1rem;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-7-3ZH .icon-alternate-calendar-LoH {
+  margin-right: 1.6rem;
+  width: 2rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-7-3ZH .date-TN7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-8-mtb {
+  box-sizing: border-box;
+  padding: 0.5rem 12rem 0.5rem 1.8rem;
+  width: 30.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 31.7rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #00a3ff;
+  border-radius: 1rem;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-8-mtb .icon-alternate-map-marked-Uo1 {
+  margin-right: 1.4rem;
+  width: 2rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .frame-8-mtb .destination-c8X {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-xgxw-5qR .auto-group-xgxw-5qR-bg {
+  width: 144rem;
+  height: 58.1rem;
+  position: relative;
+  background-image: url('https://static.toiimg.com/img/104753278/Master.jpg');
+}
+.desktop-1-oCT .auto-group-h3mf-1Af {
+  box-sizing: border-box;
+  padding: 4.2rem 0rem 8rem 13.5rem;
+  width: 144rem;
+  height: 164.2rem;
+  position: absolute;
+  left: 0;
+  top: 91.6rem;
+  
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb {
+  margin: 0rem 0rem 43.9rem 4rem;
+  height: 300px;
+  display: flex;
+  column-gap: 100px;
+  align-items: center;
+  padding: 10px;
+  overflow: auto;
+ 
+  
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-scny-bef {
+  box-sizing: border-box;
+  padding-bottom: 9.55rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-scny-bef .Chardhamphoto{
+  margin-bottom: 0.05rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-scny-bef .chardham-yatra-3Wf {
+  margin-left: 0.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-97kq-M1Z {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 9.15rem 0rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-97kq-M1Z .leh-ladakh-images-hd-1-sEo {
+  margin-bottom: 0.35rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-97kq-M1Z .leh-ladakh-BmH {
+  margin-left: 0.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-r38h-Jqu {
+  box-sizing: border-box;
+  padding-bottom: 9.15rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-r38h-Jqu .kufri-1024x768-1-Fm9 {
+  margin-bottom: 0.45rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-r38h-Jqu .himachal-pradesh-zij {
+  margin-left: 1.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-jyhf-Km1 {
+  box-sizing: border-box;
+  padding-bottom: 9.15rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.Goap{
+    margin-bottom: 0.45rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-jyhf-Km1 .anjuna-beach-goa-1-qzF {
+  margin-bottom: 0.45rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  position: relative;
+  background-size: 119.503% 100%;
+  background-position: 0.0197rem -0rem;
+  background-image: url('../assets/anjuna-beach-goa-1.png');
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-jyhf-Km1 .goa-vVu {
+  margin-left: 2.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-qugh-ego {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 9.15rem 0rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-qugh-ego .nainital-9515872-1-P8b {
+  margin-bottom: 0.35rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-qugh-ego .uttarakhand-v8X {
+  margin-left: 1.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-irm3-FAo {
+  box-sizing: border-box;
+  padding-bottom: 9.15rem;
+  width: 29.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-irm3-FAo .cq5damweb1280-1-P27 {
+  margin-bottom: 0.45rem;
+  width: 29.3rem;
+  height: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .frame-1-gnb .auto-group-irm3-FAo .udaipur-7Tu {
+  margin-left: 1.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .quick-links-q91 {
+  margin-bottom: 4.8rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-top: -350px;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT {
+  box-sizing: border-box;
+  padding: 1.6rem 8.7rem 2.65rem 1.6rem;
+  height: 63rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  border-radius: 1.8rem;
+  border: 2px solid black;
+
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm {
+  margin-right: 8.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .north-places-DfM {
+  margin-bottom: 3.05rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .himachal-pradesh-YSj {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .leh-ladakh-4fy {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .shimla-PiF {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .manali-VFV {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .mussoorie-DBV {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .amritsar-LX1 {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .dharamshala-4C7 {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-15-Uhm .agra-ndu {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw {
+  margin-right: 10.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .west-places-TV9 {
+  margin-bottom: 3.05rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .mumbai-Bvw {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .goa-iR5 {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .diu-daman-qkb {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .dwarka-NkX {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .jaipur-uEf {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .udaipur-DWF {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .kutch-9Pu {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .jaisalmer-5oM {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-16-KNw .jaisalmer-coH {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV {
+  margin-right: 11.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .east-places-7EF {
+  margin-bottom: 2.95rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .darjeeling-37u {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .gangtok-NR5 {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .kolkata-66B {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .guwahati-DwV {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .meghalaya-xPH {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-17-kuV .more-HgT {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .south-places-Nhu {
+  margin-bottom: 3.05rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .kerala-JLf {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .chennai-qLb {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .tirupati-xRD {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .ooty-HyH {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .coorg-RJo {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .mysore-MiF {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .andaman-nicobar-6fq {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .bangalore-dQs {
+  margin-bottom: 3.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .auto-group-h3mf-1Af .auto-group-x1dw-mYT .frame-18-S3Z .more-kVV {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-oCT .group-1-UgP {
+  width: 17.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 111.8rem;
+  top: 4.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21875;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ed9f38;
+  border-radius: 1.8rem;
+}
+
+
+.logo{
+    height: 100px;
+    width: 100px;
+}

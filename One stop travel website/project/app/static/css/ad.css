@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    margin-top: -150px;
+    background-color: #ed9f38;
+    height: 120px;
+}
+.h{
+    margin-left: 200px;
+    font-size: 30px;
+    margin-top: 2%;
+    margin-right: 20px;
+}
+.i{
+    height: 320px;
+    width: 400px;
+    margin-top: -10%;
+    border-radius: 15px;
+    margin-left: -98;
+}
+.k1{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    margin-top: 55px;
+
+}
+.f1{
+    margin-left: 170px;
+}
+.gt{
+    margin-left: 30px;
+    font-size: 30px;
+    margin-top: 2%;
+
+}
+.gf{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-top: 2%;
+}
+.ih{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-top: 2%;
+}
+.if{
+    margin-left: 50px;
+    font-size: 30px;
+    margin-top: 2%;
+}
+.main1{
+    margin-top: 4rem;
+    display: flex;
+}
+.mid1{
+    display: flex;
+    
+}
+.mini1{
+    margin-left: 300px;
+}
+.mid2{
+    margin-left: 40px;
+    background-color: rgba(128, 128, 128, 0.13);
+    border-radius: 10px;
+    height: 200px;
+    width: 250px;
+    padding: 10px;
+    margin-top: 90px;
+    
+}
+.mini3{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 13px;
+}
+.imag{
+    margin-top: 1px;
+    height: 400px;
+    width: 450px;
+    border-radius: 10px;
+    margin-left: -99px;
+}
+.mini2{
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.butt{
+    padding: 10px;
+    border-radius: 30px;
+}
+.foot{
+    background-color: #3a5f8d;
+    color: white;
+    height: 500px;
+    margin-top: 50px;
+}
+.wt{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.f1{
+    margin-top: 150px;
+}
+.f2{
+    margin-top: 50px;
+}
+.f3{
+    margin-top: 50px;
+}
+.f4{
+    margin-top: 50px;
+}
+
+.h{
+    margin-left: -99px;
+
+}
+
+.it{
+    margin-left: 200px;
+    font-size: 15px;
+
+     
+}
+
+.ac{
+    font-size: 13px;
+}
+
+
+#checkbox{
+    margin-left:10px ;
+    background-color: #ed9f38;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#s1{
+    margin-left:10px ;
+    background-color: #ed9f38;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#checkbox2{
+    margin-left:10px ;
+    background-color: #ed9f38;
+    border: none;
+    margin-bottom: 5px;
+}
+
